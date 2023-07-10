@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### LLM Knowledge Base👋
+- https://github.com/Hannibal046/Awesome-LLM
+- https://github.com/imaurer/awesome-decentralized-llm
+- https://github.com/Aggregate-Intellect/practical-llms
+- https://github.com/Mooler0410/LLMsPracticalGuide
 <!--
 **pmaksymiak/pmaksymiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
